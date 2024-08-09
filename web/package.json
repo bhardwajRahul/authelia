@@ -14,7 +14,7 @@
       "@typescript-eslint/parser": "6.9.0",
       "@typescript-eslint/typescript-estree": "6.9.0",
       "@typescript-eslint/utils": "6.9.0",
-      "eslint-plugin-jest": "28.7.0",
+      "eslint-plugin-jest": "28.8.0",
       "eslint-plugin-testing-library": "6.2.2"
     },
     "peerDependencyRules": {
@@ -82,7 +82,7 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "19.3.0",
+    "@commitlint/cli": "19.4.0",
     "@commitlint/config-conventional": "19.2.2",
     "@limegrass/eslint-plugin-import-alias": "1.4.1",
     "@testing-library/jest-dom": "6.4.8",
